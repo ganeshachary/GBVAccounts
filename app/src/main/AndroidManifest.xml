@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main" />
-        <activity android:name=".CreateLoan"></activity>
+        <activity android:name=".CreateLoan" />
+        <activity android:name=".karigar"></activity>
     </application>
 
 </manifest>

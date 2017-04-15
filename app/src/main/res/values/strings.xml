@@ -6,5 +6,9 @@
     <string name="createloan">CreateLoan</string>
     <string name="loanheading">Loan Details</string>
     <string name="btnloan">Loan</string>
+    <string name="btnkarigar">Karigar</string>
+    <string name="btnstocks">Stocks</string>
+    <string name="btnaccounts">Accounts</string>
+    <string name="title_activity_karigar">Karigar</string>
 
 </resources>
